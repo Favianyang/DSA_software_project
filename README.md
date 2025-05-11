@@ -60,7 +60,16 @@ This operation detects whether the list contains a cycle and fix if found. The a
 
 ## Usage
 1. Click the <font color="green">green flag</font> to start the project.
+![alt text](image.png)
 1. The list is initially empty — insert at least one node to begin.
 1. Follow the instructions described in the Features section to execute.
 
 ## Contribution
+DSA Group 30: 
+- 楊硯堯: PM
+- 張軒瑋: BE
+- 張正謙: FE
+- 李政諺: FE
+- 郭俐欣(Alexa): QA
+
+Thank you very much to all the above people for their efforts and contributions
